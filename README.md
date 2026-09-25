@@ -8,3 +8,6 @@ npm init -y
 ```bash
 npm i express nodemon pg
 ```
+
+開発時の確認エンドポイント
+http://localhost:5000/
