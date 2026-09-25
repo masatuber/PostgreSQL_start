@@ -9,5 +9,13 @@ npm init -y
 npm i express nodemon pg
 ```
 
+```bush
+npm install dotenv
+```
+
 開発時の確認エンドポイント
 http://localhost:5000/
+
+dbプールについて
+
+DBプール（コネクションプール）とは、データベースへの接続（コネクション）をあらかじめ複数作成してためておき、アプリケーションからの要求に応じて使い回す仕組み
